@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaboi-py&label=Profile%20views&color=0e75b6&style=flat" alt="yaboi-py" /> </p>
 
-- I’m currently learning **Shell/C/Go**
+- I’m currently learning **Python/Shell/C/Go**
 
 - How to reach me **YABOI@schizophrenic.icu**
 
