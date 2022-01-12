@@ -8,9 +8,9 @@
 
 - How to reach me **YABOI@schizophrenic.icu**
 
-- Fun fact **i like trolling**
-
 - Learning Software Development
+
+- Fun fact **i like trolling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
