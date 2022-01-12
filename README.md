@@ -10,6 +10,8 @@
 
 - Fun fact **i like trolling**
 
+- Learning Software Development
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/8yjpAFsM9m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="YABOI#0001" height="30" width="40" /></a> - YABOI#2658
