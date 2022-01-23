@@ -1,5 +1,5 @@
-<h1 align="center">Yo, I'm YABOI</h1>
-<h3 align="center">16yr old Who likes to code and learn more</h3>
+<h1 align="center">YABOI</h1>
+<h3 align="center">welcome</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaboi-py&label=Profile%20views&color=0e75b6&style=flat" alt="yaboi-py" /> </p>
 
