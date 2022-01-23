@@ -1,5 +1,11 @@
-<h1 align="center">YABOI</h1>
-<h3 align="center">welcome</h3>
+<h1 align="center">
+Welcome
+ 
+  
+</h1>
+
+<h3 align="center"> <img src="https://media.discordapp.net/attachments/934496244754161706/934938076713738330/a_51231629838917ab8395de6970aa391e.gif" /> </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaboi-py&label=Profile%20views&color=0e75b6&style=flat" alt="yaboi-py" /> </p>
 
