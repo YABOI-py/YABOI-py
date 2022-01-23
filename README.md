@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaboi-py&label=Profile%20views&color=0e75b6&style=flat" alt="yaboi-py" /> </p>
 
 
-- I’m currently learning **Python/Shell/C/Go**
+- Learning **Python/Shell/C/Go**
 
-- How to reach me **YABOI@schizophrenic.icu**
+- Reach me **YABOI@schizophrenic.icu**
 
 - Learning Software Development
 
-- Fun fact **i like trolling**
+- Turk Troll
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
