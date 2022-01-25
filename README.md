@@ -10,7 +10,7 @@ Welcome
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaboi-py&label=Profile%20views&color=0e75b6&style=flat" alt="yaboi-py" /> </p>
 
 
-- Learning **Python/Shell/JavaScript/PHP/Go**
+- Learning **Python/Shell/JavaScript/PHP/Html/Go**
 
 - Reach me **YABOI@schizophrenic.icu**
 
