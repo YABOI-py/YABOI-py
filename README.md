@@ -12,7 +12,7 @@ Welcome
 
 - Learning **Python/Shell/JavaScript/PHP/Html/Go**
 
-- Reach me **YABOI@schizophrenic.icu** t.me/yaboipy
+- Reach me **YABOI@schizophrenic.icu** https://t.me/yaboipy
 
 - Learning Software Development
 
