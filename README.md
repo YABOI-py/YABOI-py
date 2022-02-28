@@ -4,8 +4,6 @@ Welcome
   
 </h1>
 
-<h3 align="center"> <img src="https://cdn.discordapp.com/attachments/836221495457480737/934944719648206848/simplescreenrecorder-2022-01-23_23.54.32.gif" /> </h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaboi-py&label=Profile%20views&color=0e75b6&style=flat" alt="yaboi-py" /> </p>
 
