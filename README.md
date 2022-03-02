@@ -18,7 +18,7 @@ YABOI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/8yjpAFsM9m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Rn2Mu2yn2D" height="30" width="40" /></a> - YABOI#7099
+<a href="https://discord.gg/Rn2Mu2yn2D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Rn2Mu2yn2D" height="30" width="40" /></a> - YABOI#7099
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
