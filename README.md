@@ -1,5 +1,7 @@
+
 <h1 align="center">
-YABOI
+
+ YABOI
  
   
 </h1>
@@ -7,7 +9,7 @@ YABOI
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaboi-py&label=Profile%20views&color=0e75b6&style=flat" alt="yaboi-py" /> </p>
 
-
+```
 - Learning **Python/Shell/JavaScript/PHP/Html/Go**
 
 - Reach me **https://t.me/yaboipy** 
@@ -15,7 +17,7 @@ YABOI
 - Learning Software Development
 
 - Turk Troll
-
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Rn2Mu2yn2D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Rn2Mu2yn2D" height="30" width="40" /></a> - YABOI#7099
