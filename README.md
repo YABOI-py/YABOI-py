@@ -33,7 +33,7 @@ connections:
 _____________________________
 YABOI#7099
 https://t.me/yaboipy
-https://discord.gg/qySH73a7Cq
+https://discord.gg/tokenz
 _____________________________
 ```
 
