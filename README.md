@@ -33,7 +33,7 @@ _____________________________
 ```
 connections:
 _____________________________
-YABOI#7099
+YABOI#0001
 https://t.me/yaboipy
 https://discord.gg/8dkSWJkXE7
 _____________________________
