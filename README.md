@@ -35,7 +35,7 @@ connections:
 _____________________________
 YABOI#0001
 https://t.me/yaboipy
-https://discord.gg/8dkSWJkXE7
+https://discord.gg/Tokenz
 _____________________________
 ```
 
