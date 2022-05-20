@@ -25,7 +25,7 @@ _____________________________
 
 - Turk Troll
 
-- https://yaboi.tk
+- https://yaboi.net
 
 - arch/win 10
 _____________________________
