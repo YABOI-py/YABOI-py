@@ -19,7 +19,7 @@
 ABOUT
 _____________________________
 
-- Learning **Python/Kotlin/JavaScript/PHP**
+- Learning Python/Kotlin/JavaScript/PHP
  
 - Learning Software Development
 
