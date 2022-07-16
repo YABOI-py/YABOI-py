@@ -19,7 +19,7 @@
 ABOUT
 _____________________________
 
-- Learning Python/Kotlin/JavaScript/PHP
+- Learning Kotlin/JavaScript/Ruby
  
 - Learning Software Development
 
@@ -35,9 +35,9 @@ due to skidders
 ```
 connections:
 _____________________________
-YABOI#0001
+YABOI#7377
 https://t.me/yaboipy
-https://discord.gg/Tokenz
+https://discord.gg/dwncord
 _____________________________
 ```
 
