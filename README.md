@@ -23,9 +23,9 @@ _____________________________
  
 - Learning Software Development
 
-- Turk Troll
+- Turk Roacher
 
-- https://yaboi.net
+- https://downcord.github.io
 
 - arch/win 10
 _____________________________
