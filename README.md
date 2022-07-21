@@ -29,8 +29,7 @@ _____________________________
 
 - arch/win 10
 _____________________________
-dont expect me to put good code on gh
-due to skidders
+
 ```
 ```
 connections:
