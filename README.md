@@ -1,14 +1,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yaboi-py&label=Profile%20views&color=0e75b6&style=flat" alt="yaboi-py" /> </p>
 <h3 align="center">
 
- ```
 
-\ \   /     \     __ )   _ \ _ _|
-   \  /     _ \    __ \  |   |  | 
-     |     ___ \   |   | |   |  | 
-    _|   _/    _\ ____/ \___/ ___|
-                                 
- ```
+<p align="center"> <img src="https://images.wallpaperscraft.com/image/single/anime_girl_leaves_162517_2560x1080.jpg" /> </p>
+
+
   
 </h1>
 
